@@ -1,0 +1,33 @@
+#summary Instructions for BETA Testers
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
+
+
+
+= Verify Installation =
+
+  * Download the application from the site by clicking the download button.
+  * Verify the application starts Java.  You will be prompted to run the application and will then be asked whether you accept the signing authority which is unverified (I do not maintain a verification certificate)
+  * The application should shortly appear with a main frame.
+  * Close the application
+  * An application startup folder called "Stamp Applications" should have been created with a shortcut named "Stamp Image Bursting Application".
+
+= Verify Re-Launch =
+
+  * Verify that clicking on the "Stamp Image Bursting Application" icon from the desktop folder will launch the application. 
+  * You will be promoted for the digital certificate being unverified again.  
+
+= Basic Functional Testing =
+  
+  * Start the application and choose "Import from File" and choose a file on your local system which lists the burst directories.  The download website has a sample file you can use if you wish.
+  * Load a scanned image of stamps using the Open toolbar icon.  (Some samples have been uploaded to the website [http://code.google.com/p/stamp-imagebursting/downloads/detail?name=sample_images.zip&can=2&q= here]
