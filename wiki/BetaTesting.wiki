@@ -29,5 +29,6 @@
 
 _Verify the application is not running_
 
+  * Ensure the program is NOT running.  Close it/kill it if it is.
   * To uninstall the application go to your Java control panel.  On windows this is via the Programs under the Control Panel.  On the first tab, near the bottom is a "View" under "Temporary Internet Files".  Click this and it will show the Stamp Image Bursting Application.  
   * If you select the application and click the "Remove" icon (X) verify the application is removed.  This should also include the application shortcut in the start bar.
