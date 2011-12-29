@@ -2,4 +2,6 @@
 
 == Introduction ==
 
-TODO
+  # Managing Bounding Boxes
+  # Setting DPI for output images
+  # Quickly bursting to several countries
