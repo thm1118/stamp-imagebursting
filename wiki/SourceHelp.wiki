@@ -1,0 +1,9 @@
+#summary Instructions on building and using the source
+
+== Introduction ==
+
+Since the build and deployment process only happens if the software correctly passes all tests and checks the trunk must be in an always working condition.  For this reason, the source code will not be posted on this website, but will be available for project members on a branch basis. 
+
+== Subversion Strategy ==
+
+Each developer will have a dedicated branch for making changes.  It will be the responsibiliy of the developer to maintain the branch by regularly merging out of trunk changes.  When a defect is submitted for review, the changes will be picked up by the development owner and merged into a staging branch where all tests will be run to verify no regressions in functionality.  Upon successful execution, the code will be merged to trunk and all of the deployment jobs will be started.
