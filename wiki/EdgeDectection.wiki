@@ -13,5 +13,5 @@ The following is the steps taken on a loaded image in order to determine the bou
   * Remove any outliers that are blobs of 5 pixels or smaller that are within 50 indexed color values
   * Invert the image colors (black becomes white and vice versa)
   * Process any internal spaces by "filling" the holes of that space.
-  * Analyze the particles looking for particles that are at least 10,000 total pixels (100x100) 
+  * Analyze the particles looking for particles that are at least 10,000 total pixels (this value can now be set in the Settings dialog) 
   * Extract the calculated bounding boxes.
