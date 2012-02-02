@@ -2,6 +2,7 @@
 
 == Introduction ==
 
-  # [http://youtu.be/oH7UAYiYSrw Managing Bounding Boxes]
+  # [http://youtu.be/oH7UAYiYSrw Managing bounding boxes]
+  # [http://youtu.be/d19nxNPDPVA Resizing the output images]
   # Setting DPI for output images
   # Quickly bursting to several countries
